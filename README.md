@@ -1,6 +1,6 @@
 <h2> Namaskaram, I'm Chirag M <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' style='border-radius: 50%;' src='https://instagram.famd1-3.fna.fbcdn.net/v/t51.2885-19/s320x320/240662483_861116131202907_8947259330155943370_n.jpg?_nc_ht=instagram.famd1-3.fna.fbcdn.net&_nc_ohc=GBGkt29y_k4AX8rWNX5&edm=ABfd0MgBAAAA&ccb=7-4&oh=eeaa3252400a2e315471454d3c08554b&oe=6136DFB7&_nc_sid=7bff83' width='200'>
+<img align='right' style='border-radius: 50%;' src='https://avatars.githubusercontent.com/u/37377238?v=4' width='200'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chiragkumar%20Maniyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiragkumar-maniyar/)](https://www.linkedin.com/in/chiragkumar-maniyar/)
