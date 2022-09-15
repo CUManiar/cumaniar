@@ -10,7 +10,7 @@
 
 I am Chiragkumar Maniyar 😃. I am from Gujarat, India. I'm Full Stack Software Engineer. Working in Software industry for more than 4+ years. I'm a coder by destiny and business man by birth (Gujju) and Thinker and Phillosopher by Passsion!!!
 
-Currently Working in Geo location & Location Intelligence team. Where in we develop advanced interactive modules through which users can analyses different aspects of geographical information. In technology side, we are using Angular (Front End), Spring boot with Java (Back End). There are multiple databases associated as per user requirements but mostly RDBMS are used.
+Currently Working in Geo location & Location Intelligence team @ Precisely - Trust in Data. Where in we develop advanced interactive modules through which users can analyses different aspects of geographical information. In technology side, we are using Angular (Front End), Spring boot with Java (Back End). There are multiple databases associated as per user requirements but mostly RDBMS are used.
 
 I worked as team lead at Xebia and our team is developing one of the fastest and lovely mobile banking application for YES Bank! I'm extremly proud to lead the Loans section for the bank and it is great that one day thousands of people will be falicitated the loan amounts from the solution we built.
 
