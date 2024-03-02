@@ -8,11 +8,13 @@
 [![Medium Badge](https://img.shields.io/badge/-@cumaniar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@cumaniar/)](https://cumaniar.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-chiragma18633@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiragma18633@gmail.com)](mailto:chiragma18633@gmail.com)
 
-I am Chiragkumar Maniyar 😃. I am from Gujarat, India. I'm Full Stack Software Engineer. Working in Software industry for more than 4+ years. I'm a coder by destiny and business man by birth (Gujju) and Thinker and Phillosopher by Passsion!!!
+I am Chiragkumar Maniyar 😃. I am from Gujarat, India. I'm Full Stack Software Engineer. Working in the Software industry for more than 6+ years. I'm a coder by destiny and businessman by birth (Gujju) and a Thinker and Philosopher by passion!!!
 
-Currently Working in Geo location & Location Intelligence team @ Precisely - Trust in Data. Where in we develop advanced interactive modules through which users can analyses different aspects of geographical information. In technology side, we are using Angular (Front End), Spring boot with Java (Back End). There are multiple databases associated as per user requirements but mostly RDBMS are used.
+Currently developing DIS suit catalog application. Manages millions of assets at very high speed and very less failures. 
 
-I worked as team lead at Xebia and our team is developing one of the fastest and lovely mobile banking application for YES Bank! I'm extremly proud to lead the Loans section for the bank and it is great that one day thousands of people will be falicitated the loan amounts from the solution we built.
+Lastly worked in the Geolocation & Location Intelligence team @ Precisely - Trust in Data. Where we develop advanced interactive modules through which users can analyze different aspects of geographical information. On the technology side, we are using Angular (Front End), and Spring boot with Java (Back End). There are multiple databases associated as per user requirements but mostly RDBMS are used.
+
+I worked as a team lead at Xebia and our team is developing one of the fastest and most lovely mobile banking applications for YES Bank! I'm extremely proud to lead the Loans section for the bank and it is great that one day thousands of people will be facilitated the loan amounts from the solution we built.
 
 
 ## ⚡ Technologies
