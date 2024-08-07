@@ -19,14 +19,14 @@ I worked as a team lead at Xebia and our team is developing one of the fastest a
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, JavaScript, CSS, Bootstrap, TypeScript, Angular, React, React Native**.
-- Backend development using **Java, Spring Boot, Microservices, NodeJS**.
+- Front-end development using **NextJS, JavaScript, CSS, Bootstrap, TypeScript, Angular, React, React Native, HTML5**.
+- Backend development using **Java, Spring Boot, Microservices, NodeJS, Fastify, Express, TypeBox, JSONSchema, Zod**.
 - Making for **Relational Database Management Systems - MySQL, PostgreSQL, MongoDB, Sqlite3**.
 - Robust full-stack system design implementation.
 - Desktop application development using **Electron JS**
-- Mobile application development using **React Native**.
+- Mobile application development using **React Native,**.
 - Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and JavaScript**.
+- Solving Data structure and algorithm questions in **JavaScript**.
 
 
 
