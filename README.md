@@ -8,7 +8,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@cumaniar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@cumaniar/)](https://cumaniar.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-chiragma18633@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chiragma18633@gmail.com)](mailto:chiragma18633@gmail.com)
 
-I am Chiragkumar Maniyar 😃. I am from Gujarat, India. I'm Full Stack Software Engineer. Working in the Software industry for more than 6+ years. I'm a coder by destiny and businessman by birth (Gujju) and a Thinker and Philosopher by passion!!!
+I am Chiragkumar Maniyar 😃. I am from Gujarat, India. I'm a Software Engineer. Working in the Software industry for more than 7+ years. I'm a coder by destiny, a businessman by birth (Gujju), and a Thinker and Philosopher by passion!!!
 
 Currently developing DIS suit catalog application. Manages millions of assets at very high speed and very less failures. 
 
@@ -22,6 +22,7 @@ Talk to me about:
 - Front-end development using **NextJS, JavaScript, CSS, Bootstrap, TypeScript, Angular, React, React Native, HTML5**.
 - Backend development using **Java, Spring Boot, Microservices, NodeJS, Fastify, Express, TypeBox, JSONSchema, Zod**.
 - Making for **Relational Database Management Systems - MySQL, PostgreSQL, MongoDB, Sqlite3**.
+- Other technologies **Kafka, bullMQ, Docker, Datadog, RedShift, SDK development**
 - Robust full-stack system design implementation.
 - Desktop application development using **Electron JS**
 - Mobile application development using **React Native,**.
@@ -31,7 +32,7 @@ Talk to me about:
 
 
 ## Think and Ask 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Chirag's Blog](https://cumaniar.medium.com/).
 - 🎯 Portfolio site: [Portfolio](https://chirag-maniyar.netlify.app/).
 - ⚡ Fun fact: Internet users blink less than usual.
